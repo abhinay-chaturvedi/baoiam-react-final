@@ -34,7 +34,7 @@ function Navbar() {
                 <Link to="/">
                   <img
                     className="mainLogo"
-                    src="https://logos-download.com/wp-content/uploads/2021/01/Nykaa_Logo-700x229.png"
+                    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgTG3IMZw7M78tocFiq7QI3Io_9XoEwiyqbQ&usqp=CAU"
                   />
                 </Link>
               </div>
